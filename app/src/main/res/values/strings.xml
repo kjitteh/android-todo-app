@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todos</string>
+    <string name="title">My Todos</string>
+    <string name="add_hint">Enter new todo</string>
+    <string name="btn_save">Save</string>
+    <string name="tool_text">Clean up the room first thing in the morning</string>
+</resources>
