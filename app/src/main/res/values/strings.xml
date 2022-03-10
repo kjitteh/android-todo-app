@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todos</string>
+    <string name="fab_context">Add button</string>
+    <string name="main_title">Today\'s todos</string>
+    <string name="add_hint">Enter new todo</string>
+    <string name="btn_save">Save</string>
+    <string name="title_delete">Delete item</string>
+    <string name="warning_message">Are you sure you want to delete this todo?</string>
+    <string name="confirm">confirm</string>
+</resources>
